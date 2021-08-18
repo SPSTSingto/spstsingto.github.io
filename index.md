@@ -1,7 +1,6 @@
 <head>
    <title>SPST News Online</title>
 </head>
-
 <style> 
 @font-face {
    font-family: chirp;
@@ -12,7 +11,6 @@
    font-family: chirp;
 }
 </style>
-
 # Welcome to SPST News Online
 
 This is a place where you can read all the latest news about Supersingtoland.
