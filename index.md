@@ -15,11 +15,11 @@ This is a place where you can read all the latest news about Supersingtoland.
 
 ## Latest news
 
-[meeSPEAK 4.7 is out!](meespeak47.md)
+[meeSPEAK 4.7 is out!](meespeak47)
 
 ## Top news
 
-[meeSPEAK 4.7 is out!](meespeak47.md)
+[meeSPEAK 4.7 is out!](meespeak47)
 
 <br><br>
 
