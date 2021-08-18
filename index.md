@@ -2,8 +2,6 @@
    <title>SPST News Online</title>
 </head>
 
-<br>
-
 <style> 
 @font-face {
    font-family: chirp;
@@ -14,9 +12,6 @@
    font-family: chirp;
 }
 </style>
-
-<br> 
-
 
 # Welcome to SPST News Online
 
