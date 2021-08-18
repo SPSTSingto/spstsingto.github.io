@@ -1,7 +1,4 @@
-<head>
-   <title>SPST News Online</title>
-</head>
-<style> 
+<style>
 @font-face {
    font-family: chirp;
    src: url(gt-america.ttf);
