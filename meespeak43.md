@@ -11,6 +11,8 @@
 
 # meeSPEAK 4.3 is out!
 
+*Posted by [@SingtoNaraak](user-SingtoNaraak)*
+
 After hours of work, we are happy to announce the new version of meeSPEAK : meeSPEAK 4.3. Here are the new features :
 
 |Feature|NORMAL|PREMIUM|
