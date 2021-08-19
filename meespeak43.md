@@ -9,9 +9,9 @@
 }
 </style>
 
-# meeSPEAK 4.7 is out!
+# meeSPEAK 4.3 is out!
 
-After hours of work, we are happy to announce the new version of meeSPEAK : meeSPEAK 4.7. Here are the new features :
+After hours of work, we are happy to announce the new version of meeSPEAK : meeSPEAK 4.3. Here are the new features :
 
 |Feature|NORMAL|PREMIUM|
 |-|-|-|
