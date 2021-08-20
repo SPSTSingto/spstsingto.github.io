@@ -1,7 +1,8 @@
 <style> @font-face { font-family: chirp; src: url(gt-america.ttf); } * { font-family: chirp; } </style>
 
 # meeSPEAK 5.0
-*Posted by [@singtonaraak](user.singtonaraak.md)
+*Posted by [@singtonaraak](user.singtonaraak.md)*
+
 After two days of work, we will now announce meeSPEAK 5.0. Here are some information about meeSPEAK 5.0 :
 
 ## Availability (Country)
