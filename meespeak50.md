@@ -6,6 +6,7 @@
 After two days of work, we will now announce meeSPEAK 5.0. Here are some information about meeSPEAK 5.0 :
 
 ## Availability (Country)
+
 |Country|Availability|
 |-|-|
 |Supersingtoland|Available (v1.0 and up)|
@@ -15,6 +16,7 @@ After two days of work, we will now announce meeSPEAK 5.0. Here are some informa
 |Wairai|Available, currently unsupported (v3.0-v4.3)|
 
 ## Availability (Device)
+
 |Device|Availability|
 |-|-|
 |SPST Phone|Available (v1.0 and up)|
@@ -28,6 +30,7 @@ After two days of work, we will now announce meeSPEAK 5.0. Here are some informa
 |Wairai Computer|Unavailable|
 
 ## Features
+
 |Feature|Normal|Premium|
 |-|-|-|
 |Filters (F)|Unavailable|Available|
