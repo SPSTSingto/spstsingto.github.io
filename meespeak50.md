@@ -39,3 +39,5 @@ After two days of work, we will now announce meeSPEAK 5.0. Here are some informa
 
 ## Rally Alert!
 People are gathering to downgrade from v5.0 to v4.3 right now, please do not go outside. Thank you for your co-operation.
+
+[Back to SPST News Online](/)
