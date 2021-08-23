@@ -15,7 +15,7 @@ This is a place where you can read all the latest news about Supersingtoland.
 
 ## Latest news
 
-[SPSTLand now has Digital Coins](digitalcoins)
+[SPSTLand now has Digital Coins](digitalcoin)
 
 [meeSPEAK 5.0 is out!](meespeak50)
 
@@ -23,7 +23,7 @@ This is a place where you can read all the latest news about Supersingtoland.
 
 ## Top news
 
-[SPSTLand now has Digital Coins](digitalcoins)
+[SPSTLand now has Digital Coins](digitalcoin)
 
 [meeSPEAK 4.3 is out!](meespeak43)
 
