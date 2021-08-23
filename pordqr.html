@@ -1,0 +1,17 @@
+<html>    
+  <head>
+    <title>PORD-20 QR Code by SPSTLand</title>
+  </head>
+    
+  <script>
+    var uname = prompt("What's your name?")
+    var dob = prompt("What's your date of birth?")
+    var nation = prompt("What's your nationality?")
+    var color = prompt("Please enter your color level provided by the doctor. (Green, Yellow, Orange, Red)")
+    
+    var today = new Date();
+    var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+    var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+    var dateTime = date+' '+time;
+    
+    window.location.href = "https://api.qrserver.com/v1/create-qr-code/?data=Name: "+uname+"%0ADate of birth: "+dob+"%0ANationality: "+nation+"%0APORD-20 Level: "+color+"%0AGenerated Using SPSTLand PORD-20 QR Code Generator on "+dateTime+"&amp;size=256x256"
