@@ -14,4 +14,4 @@ The current value for SPSTLand Digital Coins is :
 `1 SD₵ = 10,000 SL$` <br>
 (Last updated : 23 August 2021)
 
-[Back to SPSTLand News Online](/)
+[Back to SPST News Online](/)
