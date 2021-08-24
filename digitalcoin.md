@@ -2,6 +2,8 @@
 
 # SPSTLand now has Digital Coins
 
+*Posted by [@singtonaraak](user.singtonaraak)*
+
 SPSTLand Digital Coins, also known as SD₵ or Digital Coins, is now open for purchase.
 <br>
 It is similar to a credit card, but you don't have to enter the credit card number.
