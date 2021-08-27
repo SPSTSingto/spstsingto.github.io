@@ -36,3 +36,9 @@ This is a place where you can read all the latest news about Supersingtoland.
 ## Old website
 
 [Go to old website](https://spstland.wordpress.com)
+
+## Live view count
+
+<a title="Real Time Web Analytics" href="http://clicky.com/101330925"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async src="//static.getclicky.com/101330925.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101330925ns.gif" /></p></noscript>
