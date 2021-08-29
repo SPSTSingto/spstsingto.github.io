@@ -7,3 +7,5 @@ This is normal Text
 ₵₵₵₵₵₵₵₵₵₵
 
 1 SD₵ = 12582 SL$
+
+Test C ₵ C ₵
