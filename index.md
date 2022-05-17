@@ -37,6 +37,8 @@ This is a place where you can read all the latest news about Supersingtoland.
 
 [Go to old website](https://spstland.wordpress.com)
 
+[Go to new website](https://spstland.github.io)
+
 ## Live view count
 
 <html>
